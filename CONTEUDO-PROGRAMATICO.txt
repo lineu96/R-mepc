@@ -1,0 +1,164 @@
+
+---------------------------
+CONTEÚDO PROGRAMÁTICO
+---------------------------
+
+SEMANA 1
+
+Aula 1:
+
+ATAV 1: Quiz...
+
+---------------------------
+
+SEMANA 2
+
+Aula 2:
+
+ATAV 2: Quiz...
+
+---------------------------
+
+SEMANA 3
+
+Aula 3:
+
+ATAV 3: Quiz...
+
+---------------------------
+
+SEMANA 4
+
+Aula 4:
+
+ATAV 4: Quiz...
+
+---------------------------
+
+SEMANA 5
+
+Aula 5:
+
+ATAV 5: Quiz...
+
+---------------------------
+
+SEMANA 6
+
+Aula 6:
+
+ATAV 6: Quiz...
+
+---------------------------
+
+SEMANA 7
+
+Aula 7:
+
+ATAV 7: Quiz...
+
+---------------------------
+
+SEMANA 8
+
+Aula 8:
+
+ATAV 8: Quiz...
+
+---------------------------
+
+SEMANA 9
+
+Aula 9:
+
+ATAV 9: Quiz...
+---------------------------
+
+SEMANA 10
+
+Aula 10:
+
+ATAV 10: Quiz...
+
+---------------------------
+
+SEMANA 11
+
+Aula 11:
+
+ATAV 11: Quiz...
+
+---------------------------
+
+SEMANA 12
+
+Aula 12:
+
+ATAV 12: Quiz...
+
+---------------------------
+
+SEMANA 13
+
+Aula 13:
+
+ATAV 13: Quiz...
+
+---------------------------
+
+SEMANA 14
+
+Aula 14:
+
+ATAV 14: Quiz...
+
+---------------------------
+
+SEMANA 15
+
+Aula 15:
+
+ATAV 15: Quiz...
+
+---------------------------
+
+SEMANA 16
+
+Aula 16:
+
+ATAV 16: Quiz...
+
+---------------------------
+
+Conhecendo o R
+ - O que é o R?
+ - História do R
+ - Projeto R
+ - Instalar o R
+ - Task views
+ - Onde estudar R
+ - Download e instalação do R
+ - Download e instalação de uma IDE/Editor
+ - Conhecendo o Rstudio
+ - Primeiros passos com o R
+ 
+Ambiente de trabalho
+Rstudio
+
+Primeiros passos
+Aritmética básica
+
+Estruturas de controle
+Estruturas de repetição
+
+Funções
+
+Importação
+
+Tidyverse
+
+tibble
+readr
+tidyr
+dplyr
+ggplot2
