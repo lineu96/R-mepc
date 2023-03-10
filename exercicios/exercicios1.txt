@@ -1,0 +1,74 @@
+
+
+
+Abra o RStudio e defina o diretório de trabalho.
+
+Crie um novo arquivo com extensão .R.
+
+Obtenha os resultados usando o R e adicione comentários.
+
+654 + 741
+9 - 1
+18937 * 3
+123/8
+63^54
+1^(4/3)
+10 %% 3
+10 %/% 3
+sin(5)
+cos(9)
+tan(3)
+asin(7)
+acos(8)
+atan(7)
+exp(86)
+sqrt(6541)
+log(10)
+log10(789)
+log2(1)
+log(45, base = 5)
+factorial(15)
+abs(87)
+round(1.98746541)
+ceiling(1.98746541)
+floor(1.98746541)
+1 == 6
+2 != 5
+3 <= 4
+4 >= 3
+5 > 2
+6 < 1
+(4 < 5) & (1 >= 2)
+(8 < 0) | (0 >= 3)
+!(2 < 5)
+21+NA
+0+NULL
+8+Inf
+541-Inf
+5641+NaN
+1/0
+-1/0
+0/0
+
+
+Em uma variável chamada de altura, armazene sua altura em centímetros.
+
+Em uma variável chamada peso, armazene seu peso em quilos.
+
+Em uma variável chamada imc faça a operação peso/(altura x altura).
+
+Usando os operadores lógicos verifique se o valor na variável imc está entre 18 e 25.
+
+
+Instale o pacote gamlss no seu R.
+
+Carregue o pacote gamlss.
+
+Acesse a lista de funções do pacote.
+
+Acesse a documentação do pacote.
+
+
+Liste as variáveis que foram criadas durante a sua sessão R.
+
+Salve estas variáveis em um arquivo .RData.

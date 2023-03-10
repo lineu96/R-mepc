@@ -248,6 +248,22 @@ q()	Fecha a Sessão
 objects()	Exibe objetos criados
 str()	Mostra a estrutura de um objeto
 
+|        Função        |                        Tarefa                       |
+|:--------------------:|:---------------------------------------------------:|
+|          c()         |                    Cria um Vetor                    |
+|        setwd()       |          Muda o Diretório de Trabalho Atual         |
+|        getwd()       |            Mostra o Diretório de Trabalho           |
+|         dir()        |   Lista os Arquivos do Diretório de Trabalho Atual  |
+|     sessionInfo()    |         Mostra algumas informações da sessão        |
+|  install.packages()  |                  Instala um pacote                  |
+|       library()      |                  Carrega um pacote                  |
+|       require()      |                  Carrega um pacote                  |
+|       example()      |           Mostra exemplos de alguma função          |
+|        print()       |         Imprime o resultado de uma variável         |
+|          q()         |                    Fecha a Sessão                   |
+|       objects()      |                Exibe objetos criados                |
+|         str()        |           Mostra a estrutura de um objeto           |
+
 -------------------------------
 
 Funções de ajuda
